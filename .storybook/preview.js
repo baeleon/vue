@@ -1,3 +1,4 @@
+import "../src/styles/tailwind.css";
 /** @type { import('@storybook/vue3-vite').Preview } */
 const preview = {
   parameters: {
